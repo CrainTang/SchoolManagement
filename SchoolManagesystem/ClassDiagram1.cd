@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAdminiper" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAQAAAAAAAAIAAAAAAAAAAAAAAEAAAgAAIAAA=</HashCode>
+      <FileName>Adminiper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFaculty" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>kAQQIQEAQAAiABDAAIEAABAAACAACCUAAAgAAIAIICA=</HashCode>
+      <FileName>Faculty.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGraduatestu">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Graduatestu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CJuniorstu">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Juniorstu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPersonnel" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RBAAAIIAAAAAAABAAAQAAAAACAAAAABAAAAEQAAAAAA=</HashCode>
+      <FileName>Personnel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUndergrastu">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Undergrastu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRetiree" Collapsed="true">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQQAAAQAAAAACAAIAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Retiree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTeacher" Collapsed="true">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAQAAAAQAAAAAAAAIAAAAQAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Teacher.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTeacherAdmini" Collapsed="true">
+    <Position X="1.25" Y="4.25" Width="1.5" />
+    <InheritanceLine Type="CAdminiper">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="-0.832" Y="0.135" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAQAAAAAAAAIAAEAAAAABAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>TeacherAdmini.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CStudentGrade" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAAAAAAAAAAAAAAAIAAAEACACAAAUQAAAACBA=</HashCode>
+      <FileName>StudentGrade.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPersonnelManage" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAgAAUAAECCEDABAgWAAAAkEgIAAMEIAAAAQEASGAiA=</HashCode>
+      <FileName>PersonnelManage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CStudent" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQEAAAUAAAADVAAAIQCKgAAAoAgABCTAAIAIAAAEAAA=</HashCode>
+      <FileName>Student.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
